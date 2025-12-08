@@ -3,20 +3,20 @@
 A Flask-based intelligent chatbot that analyzes user sentiment through conversation and recommends personalized Spotify playlists based on detected mood.
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Technologies Used](#technologies-used)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Running the Project](#running-the-project)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Important Notes](#important-notes)
-- [Troubleshooting](#troubleshooting)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
+- Overview
+- Features
+- How It Works
+- Technologies Used
+- Prerequisites
+- Installation
+- Running the Project
+- Project Structure
+- Usage
+- Important Notes
+- Troubleshooting
+- License
+- Authors
+- Acknowledgments
 
 ## 🌟 Overview
 
@@ -102,7 +102,9 @@ Song-Recommendation-Chatbot/
 ├── templates/
 │   └── index.html
 ├── static/
-│   └── styles.css
+│   ├── styles.css
+│   └── headphone.jpg
+├── LICENSE
 └── README.md
 ```
 
@@ -134,7 +136,7 @@ MIT License (see `LICENSE`).
 
 ## 👥 Authors
 
-- Jyot Shah
+- [Jyot Shah](https://www.linkedin.com/in/jyotshah1/)
 
 ## 🙏 Acknowledgments
 
