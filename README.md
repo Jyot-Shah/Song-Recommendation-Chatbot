@@ -70,7 +70,7 @@ count == 0 → Neutral Playlist
 
 ```bash
 git clone https://github.com/Jyot-Shah/Song-Recommendation-Chatbot.git
-cd Chatbot-Song-Recommender-System
+cd Song-Recommendation-Chatbot
 
 # Create virtual environment (recommended)
 python -m venv venv
