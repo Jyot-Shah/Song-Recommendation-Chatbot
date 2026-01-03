@@ -105,6 +105,7 @@ Song-Recommendation-Chatbot/
 │   ├── styles.css
 │   └── headphone.jpg
 ├── LICENSE
+├── .gitignore
 └── README.md
 ```
 
